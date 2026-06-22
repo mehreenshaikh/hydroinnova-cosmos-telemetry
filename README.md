@@ -49,3 +49,11 @@ This was inspired by the LEIA Data Analysis and Test Support NASA internship pos
 ### 6/20/2026
 17. I tried debugging the streamlit method of user-interactive plotting but it still wasn't loading so I decided to switch from using streamlit (which opens a webpage where you can click which variable you want to plot) to plotly (you type in the terminal the column(s) you want to plot).
 18. Based on **main.py**, I created telemetry.py which used the same algorithm but reads, cleans, stitches together, and plots ALL of **SnowEx20 COSMOS Stationary Soil Moisture V001**'s files.
+
+# Moving Forward
+Some ideas I have for future features and projects after completing Hydroinnova-Cosmos-Telemetry project are:
+1. The user can choose to plot multiple values on the same plot or choose to do so on separate plots without having to rerun **telemetry.py**.
+2. Splitting up the program into multiple files which can run sequentially and separately.
+3. The user can choose the data visualization.
+4. Making a full front-end portion for Hydroinnova-Cosmos-Telemetry.
+5. A univeral data-cleaning program.
