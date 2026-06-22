@@ -17,12 +17,12 @@ This was inspired by the LEIA Data Analysis and Test Support NASA internship pos
 ### 5/11/2026
 1. I defined the logic of what I intended my project to do:
   	1. Import thermal, optical, power, pressure stored in multiple file types recorded at different cadences
-          1. Put into one standard file type
-          2. Allow for export
-  	3. Stitch together datasets into a single set
-  	4. Extract from datasets
-  	5. Plot datasets
-  	6. Visualize datasets
+    2. Put into one standard file type
+    3. Allow for export
+  	4. Stitch together datasets into a single set
+  	5. Extract from datasets
+  	6. Plot datasets
+  	7. Visualize datasets
 2. I began looking for training datasets on _NASA Open Data Portal_ and _Kaggle_ containing related probe data stored in different file types recorded at different cadences.
 ### 5/13/2026
 2. I created a project in RStudio. I didn't end up continuing with R as I later switched to Python in PyCharm.
