@@ -8,4 +8,4 @@ Hydroinnova Cosmos Telemetry is a tool built with Python and PyCharm which combi
 
 # getting started
 1. Download the **nsidc-download_SNEX20_CSSM.001_2026-06-04.py** file and use it to download the rest of the files
-2. Run telemetry.py
+2. Run **telemetry.py**
