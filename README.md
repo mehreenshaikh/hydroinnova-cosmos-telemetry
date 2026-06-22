@@ -15,7 +15,15 @@ This was inspired by the LEIA Data Analysis and Test Support NASA internship pos
 
 # How I Did It
 ### 5/11/2026
-1. I began looking for training datasets on _NASA Open Data Portal_ and _Kaggle_ containing related probe data stored in different file types recorded at different cadences.
+1. I defined the logic of what I intended my project to do:
+  	1. Import thermal, optical, power, pressure stored in multiple file types recorded at different cadences
+    		1. Put into one standard file type
+    		2. Allow for export
+  	2. Stitch together datasets into a single set
+  	3. Extract from datasets
+  	4. Plot datasets
+  	5. Visualize datasets
+2. I began looking for training datasets on _NASA Open Data Portal_ and _Kaggle_ containing related probe data stored in different file types recorded at different cadences.
 ### 5/13/2026
 2. I created a project in RStudio. I didn't end up continuing with R as I later switched to Python in PyCharm.
 3. I identified the dataset I want to use as **SnowEx20 COSMOS Stationary Soil Moisture V001**, which contains temperature and pressure data.
